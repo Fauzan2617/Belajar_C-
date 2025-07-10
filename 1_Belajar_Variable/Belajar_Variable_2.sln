@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belajar_Variable_2", "Belajar_Variable_2\Belajar_Variable_2.csproj", "{A6898359-572A-4115-A21D-322B2931107D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6898359-572A-4115-A21D-322B2931107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6898359-572A-4115-A21D-322B2931107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6898359-572A-4115-A21D-322B2931107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6898359-572A-4115-A21D-322B2931107D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A22F4A-B61A-47DE-924D-0827A8CB724B}
+	EndGlobalSection
+EndGlobal

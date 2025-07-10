@@ -1,0 +1,17 @@
+
+.vs/
+*.user
+*.suo
+*.vssscc
+*.vspscc
+*.dbmdl
+*.log
+*.obj
+*.exe
+*.pdb
+*.cache
+*.csproj.user
+*.sln.docstates
+
+bin/
+obj/
